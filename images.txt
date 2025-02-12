@@ -7,4 +7,4 @@ xhofe/alist:latest
 python:alpine3.19
 tomcat
 centos
-coredns
+coredns/coredns:1.8.4
