@@ -8,3 +8,4 @@ python:alpine3.19
 tomcat
 centos
 aipan
+coredns
